@@ -1,1 +1,1 @@
-# AI.Notebooks.BinarySentimentAnalysis
+# AI.Notebooks.BinaryClassification
